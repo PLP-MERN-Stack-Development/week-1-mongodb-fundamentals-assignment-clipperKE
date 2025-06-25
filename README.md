@@ -48,3 +48,6 @@ README.md	This file, with setup and usage instructions
 
 Below is a screenshot of the books collection as viewed in my MongoDB Compass:
 ![MongoDB Compass Screenshot](screenshot.png)
+[Click to view screenshot](screenshot.png)
+
+
