@@ -44,10 +44,4 @@ queries.js	All MongoDB queries organized by assignment tasks
 screenshot.png	Screenshot of data loaded in my MongoDB Compass
 README.md	This file, with setup and usage instructions
 
-6. 📸 Screenshot
-
-Below is a screenshot of the books collection as viewed in my MongoDB Compass:
-![MongoDB Compass Screenshot](screenshot.png)
-[Click to view screenshot](screenshot.png)
-
 
